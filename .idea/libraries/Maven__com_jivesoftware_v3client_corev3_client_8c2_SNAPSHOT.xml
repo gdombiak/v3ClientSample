@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.jivesoftware.v3client:corev3-client:8c2-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jivesoftware/v3client/corev3-client/8c2-SNAPSHOT/corev3-client-8c2-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jivesoftware/v3client/corev3-client/8c2-SNAPSHOT/corev3-client-8c2-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/jivesoftware/v3client/corev3-client/8c2-SNAPSHOT/corev3-client-8c2-SNAPSHOT-sources.jar!/" />
+      <root url="file://$PROJECT_DIR$/../v3ClientGenerator/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../v3ClientGenerator/target/generated/src/main/java" />
+    </SOURCES>
+  </library>
+</component>
